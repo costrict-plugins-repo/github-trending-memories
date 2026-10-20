@@ -1,0 +1,11 @@
+{
+  "name": "memories",
+  "description": "Session journaling plugin — save, list, open, search, and delete session memories",
+  "version": "1.0.0",
+  "author": {
+    "name": "4rneorist",
+    "url": "https://github.com/4rneorist"
+  },
+  "keywords": ["memories", "session", "journaling", "logging"],
+  "license": "MIT"
+}
